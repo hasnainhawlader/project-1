@@ -1,0 +1,30 @@
+/*.btn1 {
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: 300px;
+    margin-top: 50px;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px 20px;
+    background-color: aliceblue;
+
+
+}
+.btn2{
+   
+        text-decoration: none;
+        display: inline-block;
+        text-align: center;
+        margin-bottom: 10px;
+        margin-left: 300px;
+        margin-top: 50px;
+        border: 2px solid black;
+        padding: 10px;
+        border-radius: 0px 20px 10px 0;
+        background-color: aliceblue;
+}*/
+a{
+    text-decoration: none;
+}

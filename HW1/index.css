@@ -1,0 +1,25 @@
+h1{
+    background-color: rgb(209, 217, 223);
+    font-size: 300%;
+    text-align: center;
+}
+h1 span{
+    color: #d63255;
+}
+body{
+    background-color: hsl(161, 48%, 91%);
+    margin: 10px 10px 10px 1rem;
+}
+.check-1{
+    padding: 1em;
+    height: 50%;
+    width: 50%;
+    margin-left : 300px ; 
+}
+#check-2{
+    height: 50%;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    margin-left: 300px;
+}
